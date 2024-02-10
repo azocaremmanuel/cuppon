@@ -1,0 +1,44 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+header .collapse {
+    justify-content: flex-end;
+}
+
+
+
+.bg {
+    background-color: #28A745!important;
+}
+
+.card {
+    height: 31rem
+}
+
+.card-img-top {
+    height: 228px;
+    object-fit:cover;
+}
+.card h4{
+    color: #28A745;
+    font-weight: bold;
+}
+.card h5{
+    font-weight: bold;
+}
+.card h6{
+    font-size: 16px;
+    color: gray;
+}
+.card p {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.iconcolor {
+    color: gray;
+} 
+
+.border-top{
+    max-width: 90%;
+}
